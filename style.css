@@ -1,0 +1,12 @@
+.header_div{
+    background-color: #B7CADB;
+    margin-bottom: 20px;
+}
+.copy_right_footer{
+    background-color: #DAB88B;
+    margin: 0px;
+    padding: 10px;
+    bottom:0;
+    position:fixed;
+    width: 100%;
+}
